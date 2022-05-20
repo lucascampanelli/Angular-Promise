@@ -1,0 +1,7 @@
+{
+  "name": "aulaPromises",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
